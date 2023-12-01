@@ -1,3 +1,6 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
 .box {
   background-color: #a17e92;
   margin: 150px;
@@ -8,7 +11,7 @@
 
 .b {
   background-color: #b34f75;
-  color: white;
+  color: whitesmoke;
   margin: 10px;
   height: 50px;
   display: flex;
