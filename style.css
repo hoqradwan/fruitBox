@@ -1,0 +1,29 @@
+.box {
+  background-color: #a17e92;
+  /* height: 300px; */
+  margin: 150px;
+  padding: 7px;
+  display: flex;
+  flex-direction: column;
+}
+
+.b {
+  background-color: #b34f75;
+  color: white;
+  margin: 10px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+}
+.f {
+  background-color: #91213a;
+  padding: 10px;
+}
+.num {
+  margin: 10px;
+}
+.outer-box {
+  background-color: #9c9ca3;
+  /* margin: 100px; */
+  padding: 10px;
+}
