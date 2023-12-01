@@ -2,7 +2,7 @@ body {
   font-family: "Roboto", sans-serif;
 }
 .box {
-  background-color: #a17e92;
+  background-color: #d0acc1;
   margin: 150px;
   padding: 7px;
   display: flex;
@@ -15,16 +15,20 @@ body {
   margin: 10px;
   height: 50px;
   display: flex;
-  align-items: center;
+  /* align-items: center; */
 }
 .f {
   background-color: #91213a;
   padding: 10px;
+  text-align: center;
 }
 .num {
   margin: 10px;
 }
 .outer-box {
-  background-color: #9c9ca3;
+  background-color: #d6d6d9;
   padding: 10px;
+}
+p {
+  margin-top: 6px;
 }
